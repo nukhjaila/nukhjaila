@@ -48,7 +48,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2JoZHNmYmRocmtldDN4MnRucDRveTMwNHY1a3k5MzA4c25xbzQwZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ckr4W2ppxPBeIF8dx4/giphy.gif" width="300" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhmcXRjaHY0bHNlNW02azBtb2J0cnhuM2ZwazJ5bXRicjEwZ2NudiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Basrh159dGwKY/giphy.giff" width="100%" alt="coding gif"/>
 </div>
 
 <br/>
