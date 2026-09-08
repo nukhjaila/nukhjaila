@@ -24,8 +24,6 @@
 - 🚀 Learn best by building — school projects, side projects, and a lot of debugging
 - 🌱 Currently deepening my skills in Go and system design
 
-<br/>
-
 ### 🛠️ Tech Stack
 
 <div align="center">
