@@ -45,11 +45,3 @@
 ![HTTP](https://img.shields.io/badge/HTTP-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhmcXRjaHY0bHNlNW02azBtb2J0cnhuM2ZwazJ5bXRicjEwZ2NudiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Basrh159dGwKY/giphy.gif" width="1000" alt="coding gif"/>
-</div>
-
-<br/>
