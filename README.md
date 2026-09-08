@@ -53,16 +53,6 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/nukhjaila/nukhjaila/output/github-contribution-grid-snake.svg)
-
-</div>
-
-<br/>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9a7,100:0f2027&height=100&section=footer"/>
