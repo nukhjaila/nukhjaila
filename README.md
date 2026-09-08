@@ -17,14 +17,6 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2JoZHNmYmRocmtldDN4MnRucDRveTMwNHY1a3k5MzA4c25xbzQwZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ckr4W2ppxPBeIF8dx4/giphy.gif" width="300" alt="coding gif"/>
-</div>
-
-<br/>
-
 ### 🧠 About Me
 
 - 🎓 Computer Science student at **Astana IT University**
@@ -52,3 +44,11 @@
 ![HTTP](https://img.shields.io/badge/HTTP-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2JoZHNmYmRocmtldDN4MnRucDRveTMwNHY1a3k5MzA4c25xbzQwZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ckr4W2ppxPBeIF8dx4/giphy.gif" width="300" alt="coding gif"/>
+</div>
+
+<br/>
