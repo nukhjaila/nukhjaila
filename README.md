@@ -1,11 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9a7&height=200&section=header&text=Hi%20there,%20I'm%20Mukhammed%20👋&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=CS+Student+at+Astana+IT+University;Backend+%26+AI+Enthusiast;Building+things+with+Go%2C+Python+%26+C%23;Always+learning+something+new+🚀" alt="Typing SVG" />
-</a>
-
 <br/>
 
 <a href="https://t.me/nukhjaila" target="_blank">
@@ -36,7 +31,6 @@
 - 💻 Focused on **Backend Development** and exploring **AI/ML**
 - 🚀 Learn best by building — school projects, side projects, and a lot of debugging
 - 🌱 Currently deepening my skills in Go and system design
-- 📫 Reach me on **Telegram** [@nukhjaila](https://t.me/nukhjaila) or **email**
 
 <br/>
 
